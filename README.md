@@ -1,2 +1,2 @@
-# C-Loader-Example
+# Loader-Example
 C++ Loader Example
