@@ -1,7 +1,12 @@
 #include <iostream>
-#include <Windows.h>	
+
+#include <Windows.h>
 
 #include "Loader/Loader.h"
+
+/*
+* Author: Hxxven https://github.com/hxxven10
+*/
 
 int main()
 {
